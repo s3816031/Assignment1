@@ -42,6 +42,53 @@ Completed: 04.09.19 from: https://personalitymax.com/
 [![Image from Gyazo](https://i.gyazo.com/eb67ac666d7cd53d748aa56a2cef301d.png)](https://gyazo.com/eb67ac666d7cd53d748aa56a2cef301d)
 Completed: 08.09.19 from:http://www.testmycreativity.com
 
+# What do the results of these test mean for me?
+I am intrigued to find out the information of particularly the Myers-Brigg team, I used the results and applied them to situations that had occured in my day-to-day life and even some big decisions I have made and found them to be quite accurate to match my personality.
+
+# How do you think these results may influence your behaviour in a team?
+I'm not sure how much influence these results will have, within team settings I am aware of the role that I am needed to take, whether it is for leadership and delegation, tasks assigned for myself, etc. I don't think these results will influence the way I approach my work or team settings.
+
+# How should you take this into account when forming a team?
+With the results given and the ability to access other results of fellow collueges, the benefits of finding memebers who do not share similar aspects to my results will help create a more well-rounded group providing opinions and perspectives in which I may overlook or even my fellow team members may overlook also. With having alternative personalities it is also important to make sure there is a strong commonality of teamwork and working with other people.
+
+### Project Idea
+
+# Overview
+
+The project I am interested in working on is a Phone Application for volleyball coaching. It will contain a menu of options to allow coaches or players using the application to set an age group of athlete/s, the type of skill they wish to work.
+
+# Motivation
+
+With my history in the sport and current career path, Volleyball is important to my life and this application can help myself and others that are coaching volleyball within Australia. This application will be something that is not available for Volleyball Coaches and can be a huge hit moving forward with the implentation of technology and coaching.
+
+# Description
+This application will be the first of it's kind and require a lot of work outside of the application's development. The Volleyball Coaching application will require an account that is either selected as a coach or athlete. Once the account has been created, the home page will contaain quick easy one touch options such as:
+- Create a Training Session
+- Warm up
+- Drills
+Included in the touch options, filters will be available to limit data response for the application so that the user can easily access the required information without having to search for it manually. Information provided can also be specifically searched for in the Drills section that can limit response to specific skills and areas of the sport. 
+Providied with the drills I will try and provide video demonstrations of the performed exercise, which will be publically sourced from Youtube and other social media sites that allow the use of their content.
+Each Individual exercise will have a description of the exercise, the number of athletes required, equipment required, skill level of the exercise, information of how it is performed, notes for coaches to keep an eye on in order to help the athlete also.
+
+
+
+# Tools and Technologies
+MIT App Inventor
+Python (Once learnt)
+Youtube (For video demonstrations)
+Instagram (for video footage)
+
+# Skills Required
+- MIT App Inventor
+- Phython Coding
+- Video Recorder
+- Athlete/Models to perform the exercises.
+The app's creation will require a designer in creating a logo, and the imagery provided for the application, once created the information will be provided by myself. In the initial stages of the creation, exercises will be added one by one to ensure the highest quality of content. Once the skills are created, video recording of the drills will need to take place in order to make a sufficient database of the application's own content.
+
+# Outcome
+
+If successful the application will create a database of volleyball coaches to access a database of information at their hands, it can aid in making coaching easier and also help coaches further develop their skills. The application's success can also see the addition of a "Create your own drill" option which allows coaches to add their own drills which (if approved) can be added to the application's database.
+
 
 
 
