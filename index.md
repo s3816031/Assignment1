@@ -10,6 +10,9 @@ Australian
 
 Professional Athlete
 
+# About Me
+I am 24 years old and currently located in Lausanne, Switzerland where I am currently playing volleyball professionally. I currently only speak English but am learning to speak French. Prior to this, I have completed 4 years at the University of Calgary in Canada, where I recieved a scholarship and competed in the University's varsity volleyball team known as Calgary Dinos. In my limited time, I like to work on graphic designer projects and play video games.
+
 ### Interest in IT
 My interest in IT follows a variety of pathways, currently my interest is to develop skills and become a digital solution architect. Other fields of interest stem from my previous hobby of graphic design and marketing in digital media. Beginning in my early teen years, I was always intrigued towards technology, specifically video games and graphic design, whilst also being associated with my mother’s current field of work in solution architect. My experience in IT is limited, I have completed 2 years of Software Design and Development in 2012 through my high school whilst spending my time from 2011-2013 I dabbled in an entrepreneur experience of Graphic Design specifying in Photoshop, 3D Cinema and After Effects.
 I have chosen RMIT as my institute as it is one of the offered degrees online that suits the lifestyle of a professional athlete. As of the semester my time will be spent overseas in Switzerland where I am playing professional volleyball and in my downtime RMIT is able to provide me with studies to be ready for a job in the tech industry after my professional career ends.
@@ -18,6 +21,7 @@ Through the degree I expect to be proficient in skills required for an entry lev
 
 ### Ideal Job
 As stated above, my ideal job that I was able to find is:
+
 https://www.seek.com.au/job/39854172?searchrequesttoken=f87bbc15-9e75-4752-ae9e-861ef1497645&type=standout
 
 [![Image from Gyazo](https://i.gyazo.com/4e7f26b86b5e87e2cf7a073f91fde909.png)](https://gyazo.com/4e7f26b86b5e87e2cf7a073f91fde909)
@@ -74,8 +78,11 @@ Each Individual exercise will have a description of the exercise, the number of 
 
 # Tools and Technologies
 MIT App Inventor
+
 Python (Once learnt)
-Youtube (For video demonstrations)
+
+outube (For video demonstrations)
+
 Instagram (for video footage)
 
 # Skills Required
