@@ -30,8 +30,10 @@ https://www.seek.com.au/job/39854172?searchrequesttoken=f87bbc15-9e75-4752-ae9e-
 
 DXC is a large technology company that appeals to me through both their large scale and professional pathways in their employment, DXC is a well-known competitive IT Service provider which has seen a wealth of big name clients for IT software integrations.
 The position of a Digital Solution Architect in DXC is a job that oversees a team of IT specialists that are integrating a new technology, software update or providing a new service to a client. The role is important to ensure the project stays on track, to solve issues and potential problems with software integration whilst also having in-depth knowledge of the systems used.
+
 Qualifications and Experiences outlined in the job follow the job description also. Inside the IT aspect, the job requires a Bachelor in Science/Business in IT or equivalent, 10+ years experienced and 5-10 years solution architect experience as well. Proficiency in Oracle/People Soft CRM, Data Exchange Mechanism, .Net/Azure application development. 
 Currently I have no experience in any of these fields, only just commencing my IT studies. Through sporting I have excellent communication and management skills.
+
 To obtain the skills it will be crucial to complete my Bachelor of IT first. I also have access to a Senior Solution Architect who is able to provide me personal training and software proficiency over the years of my studies. Outside of this I will follow the steps provided by the Solution Architect for becoming proficient in required programs for the job. Potentially completing courses and specified training in required for entry-level jobs in the field of Solution Architect.
 
 
@@ -70,6 +72,7 @@ This application will be the first of it's kind and require a lot of work outsid
 - Create a Training Session
 - Warm up
 - Drills
+
 Included in the touch options, filters will be available to limit data response for the application so that the user can easily access the required information without having to search for it manually. Information provided can also be specifically searched for in the Drills section that can limit response to specific skills and areas of the sport. 
 Providied with the drills I will try and provide video demonstrations of the performed exercise, which will be publically sourced from Youtube and other social media sites that allow the use of their content.
 Each Individual exercise will have a description of the exercise, the number of athletes required, equipment required, skill level of the exercise, information of how it is performed, notes for coaches to keep an eye on in order to help the athlete also.
@@ -90,6 +93,7 @@ Instagram (for video footage)
 - Phython Coding
 - Video Recorder
 - Athlete/Models to perform the exercises.
+
 The app's creation will require a designer in creating a logo, and the imagery provided for the application, once created the information will be provided by myself. In the initial stages of the creation, exercises will be added one by one to ensure the highest quality of content. Once the skills are created, video recording of the drills will need to take place in order to make a sufficient database of the application's own content.
 
 # Outcome
