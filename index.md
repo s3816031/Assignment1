@@ -11,12 +11,12 @@ Australian
 Professional Athlete
 
 # About Me
-I am 24 years old and currently located in Lausanne, Switzerland where I am currently playing volleyball professionally. I currently only speak English but am learning to speak French. Prior to this, I have completed 4 years at the University of Calgary in Canada, where I recieved a scholarship and competed in the University's varsity volleyball team known as Calgary Dinos. In my limited time, I like to work on graphic designer projects and play video games.
+I am 24 years old and currently located in Lausanne, Switzerland where I am currently playing volleyball professionally. I currently only speak English but am learning to speak French. Prior to this, I have completed 4 years at the University of Calgary in Canada, where I recieved a scholarship and competed in the University's varsity volleyball team known as Calgary Dinos. In my limited free time, I like to spend it either playing video games or working on graphic design projects.
 
 ### Interest in IT
-My interest in IT follows a variety of pathways, currently my interest is to develop skills and become a digital solution architect. Other fields of interest stem from my previous hobby of graphic design and marketing in digital media. Beginning in my early teen years, I was always intrigued towards technology, specifically video games and graphic design, whilst also being associated with my mother’s current field of work in solution architect. My experience in IT is limited, I have completed 2 years of Software Design and Development in 2012 through my high school whilst spending my time from 2011-2013 I dabbled in an entrepreneur experience of Graphic Design specifying in Photoshop, 3D Cinema and After Effects.
+My interest in IT follows a variety of pathways, currently my interest is to develop skills and become a digital solution architect. Other fields of interest stem from my previous hobby of graphic design and marketing in digital media. Beginning in my early teen years, I was always intrigued towards technology, specifically video games and graphic design, whilst also being associated with my mother’s current field of work as a Solution Architect. My experience in IT is limited, I have completed 2 years of Software Design and Development in 2012 through my high school whilst spending my time from 2011-2013 dabbling in the field of Graphic Design specifying in Photoshop, Illustrator, 3D Cinema and After Effects.
 I have chosen RMIT as my institute as it is one of the offered degrees online that suits the lifestyle of a professional athlete. As of the semester my time will be spent overseas in Switzerland where I am playing professional volleyball and in my downtime RMIT is able to provide me with studies to be ready for a job in the tech industry after my professional career ends.
-Through the degree I expect to be proficient in skills required for an entry level job in digital solution architect employment. Potentially further develop my graphical skills as well as being ready for the current trends when looking for employment.
+Through the degree I expect to be proficient in skills required for an entry level job in digital solution architect employment. Potentially further develop my graphical skills as well as being ready for the current technology trends that can aid my transition from sports into the tech industry.
 
 
 ### Ideal Job
@@ -29,12 +29,12 @@ https://www.seek.com.au/job/39854172?searchrequesttoken=f87bbc15-9e75-4752-ae9e-
 
 
 DXC is a large technology company that appeals to me through both their large scale and professional pathways in their employment, DXC is a well-known competitive IT Service provider which has seen a wealth of big name clients for IT software integrations.
-The position of a Digital Solution Architect in DXC is a job that oversees a team of IT specialists that are integrating a new technology, software update or providing a new service to a client. The role is important to ensure the project stays on track, to solve issues and potential problems with software integration whilst also having in-depth knowledge of the systems used.
+The position of a Digital Solution Architect in DXC is a job that oversees a team of IT specialists that are integrating a new technology, software update or providing a new service to a client. The role is important to ensure the project stays on track, to solve issues and potential problems with software integration whilst also having in-depth knowledge of the systems used. Solution Architects also have to maintain customer relations as they are to relay the clients needs and desires into the project and also help train the client in using/applying/understanding the product provided.
 
 Qualifications and Experiences outlined in the job follow the job description also. Inside the IT aspect, the job requires a Bachelor in Science/Business in IT or equivalent, 10+ years experienced and 5-10 years solution architect experience as well. Proficiency in Oracle/People Soft CRM, Data Exchange Mechanism, .Net/Azure application development. 
-Currently I have no experience in any of these fields, only just commencing my IT studies. Through sporting I have excellent communication and management skills.
+Currently I have no experience in any of these fields, only just commencing my IT studies. However, through sporting I have excellent communication and management skills, it also also helped me work effecitvely in a team environment and also train me in being able to handle stressful challenges. 
 
-To obtain the skills it will be crucial to complete my Bachelor of IT first. I also have access to a Senior Solution Architect who is able to provide me personal training and software proficiency over the years of my studies. Outside of this I will follow the steps provided by the Solution Architect for becoming proficient in required programs for the job. Potentially completing courses and specified training in required for entry-level jobs in the field of Solution Architect.
+To obtain the skills it will be crucial to complete my Bachelor of IT first. I also have access to a Senior Solution Architect who is able to provide me personal training and software proficiency over the years of my studies. Before applying for jobs, it would be crucial for me to become efficient in the programs used for the field of work. As mentioned in the skills and requirements it seems that I should look into learning how to use the Oracle system, .Net/Azure application training as well.
 
 
 ### Profile
@@ -49,10 +49,10 @@ Completed: 04.09.19 from: https://personalitymax.com/
 Completed: 08.09.19 from:http://www.testmycreativity.com
 
 # What do the results of these test mean for me?
-I am intrigued to find out the information of particularly the Myers-Brigg team, I used the results and applied them to situations that had occured in my day-to-day life and even some big decisions I have made and found them to be quite accurate to match my personality.
+I was intrigued to find out the information of particularly the Myers-Brigg team, I examined the results of key characterisitcs of my personality style and found myself agreeing with a variety of the terms, whilst also discovering and understanding some things about myself that I was not previously able to definitely define about myself. I am now interested to see how these results can place an effect on comparison when working with other individuals who do not share the same personality.
 
 # How do you think these results may influence your behaviour in a team?
-I'm not sure how much influence these results will have, within team settings I am aware of the role that I am needed to take, whether it is for leadership and delegation, tasks assigned for myself, etc. I don't think these results will influence the way I approach my work or team settings.
+I'm not sure how much influence these results will have, within team settings I am aware of the role that I am needed to take, whether it is for leadership and delegation, tasks assigned for myself, etc. I don't think these results will influence the way I approach my work or team settings but it will be interesting to understand myself better in situations which I may find uncomfortable or easier than others.
 
 # How should you take this into account when forming a team?
 With the results given and the ability to access other results of fellow collueges, the benefits of finding memebers who do not share similar aspects to my results will help create a more well-rounded group providing opinions and perspectives in which I may overlook or even my fellow team members may overlook also. With having alternative personalities it is also important to make sure there is a strong commonality of teamwork and working with other people.
