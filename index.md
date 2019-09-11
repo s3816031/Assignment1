@@ -69,6 +69,7 @@ With my history in the sport and current career path, Volleyball is important to
 
 # Description
 This application will be the first of it's kind and require a lot of work outside of the application's development. The Volleyball Coaching application will require an account that is either registered as a coach, athlete or both. Once the account has been created, the home page will contain quick easy one touch options such as:
+  
   Create a Training Session
 
 In this section of the application, the user will be prompted to choose from a customizable template or create their own personal session. From this the user will be sent to a "clipboard" like interface that will prompt the user to chronologically select information such as the Gender, Age, Number of Athletes and Session Time. From this a table will show up with 3 or more rows that will allow the coach to start by filtering the skill whether it is warm up, attacking, blocking etc; next it will choose the amount of time you wish to spend on the drill and in the final table a list of filtered results will be selectable for the session slot.
