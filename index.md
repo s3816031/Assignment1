@@ -59,21 +59,22 @@ With the results given and the ability to access other results of fellow collueg
 
 ### Project Idea
 
-## Overview
+# Overview
 
 The project I am interested in working on is a Phone Application for volleyball coaching. The application will be used for coaches and potential athletes to increase the knowledge base of their training sessions and also provide an easy to access prepared training session in which the coach has personally created or can select from a database of customizable training templates. The application will also further breakdown into training exercises, demonstrations of the training exercise, volleyball skill progressions with ques and key points to help coaches and athletes understand how to perform the skill/exercises. To ease the user interface the application will also provide a filters for the user to select from which will allow them to access application drills and exercises that best fit's the user's needs.
 
-## Motivation
+# Motivation
 
 With my history in the sport and current career path, Volleyball is important to my life and this application can help myself and others that are coaching volleyball within Australia. Volleyball is a sport that almost everyone in Australia has played or watched, whether it is down by the beach or in their years of high school, so every teacher, coach and player can benefit from a database of training at their fingertips. As a coach and athlete, one of the most important thing for learning volleyball has involved visual learning. I have countlessly watched and re-watched my volleyball games and also other high level athlete's footage in order to increase my own understand of skills. Not only has the footage helped but also the increased use of social media has provided me with information and training exercises that I have never seen whilst playing in Australia. With all these factors, this application will be something that is not available for Volleyball Coaches and can be a huge hit moving forward with the implementation of technology and coaching.
 
-## Description
+# Description
 This application will be the first of it's kind and require a lot of work outside of the application's development. The Volleyball Coaching application will require an account that is either registered as a coach, athlete or both. Once the account has been created, the home page will contain quick easy one touch options such as:
-# - Create a Training Session
+- Create a Training Session
   In this section of the application, the user will be prompted to choose from a customizable template or create their own personal session. From this the user will be sent to a "clipboard" like interface that will prompt the user to chronologically select information such as the Gender, Age, Number of Athletes and Session Time. From this a table will show up with 3 or more rows that will allow the coach to start by filtering the skill whether it is warm up, attacking, blocking etc; next it will choose the amount of time you wish to spend on the drill and in the final table a list of filtered results will be selectable for the session slot.
-# - Warm up
+ - Warm up
 This section will provide the user with a similar interface to the Create a training session, instead of having to select a variety of options, the user will be presented a database of warm up drills and exercises that are able to be filtered if desired.
-# - Drills
+ - Drills
+
 Similarly to the warm up section, the interface will be exactly the same but provide the user with an interface of drills that can be filtered to find the desired skill based on determining factors of skill level etc.
 
 Included in the touch options, filters will be available to limit data response for the application so that the user can easily access the required information without having to search for it manually. A "Favourite" option will be provided for coaches to save a drill that they find to be most useful and have it quickly accessible by selecting the Favourites Option.
@@ -82,7 +83,7 @@ Provided with the Drills and Warm up, I will try and provide video demonstration
 Each Individual exercise will have a description of the exercise, the number of athletes required, equipment required, skill level of the exercise, information of how it is performed, notes for coaches to keep an eye on in order to help the athlete's understand.
 
 
-## Tools and Technologies
+# Tools and Technologies
 MIT App Inventor
 
 Python (Once learnt)
@@ -91,7 +92,7 @@ Youtube (For video demonstrations)
 
 Instagram (for video footage)
 
-## Skills Required
+# Skills Required
 - MIT App Inventor
   Origionally the application will start here as a base for understanding and also create a quick and easy to use interface for future models.
 - Phython Coding
